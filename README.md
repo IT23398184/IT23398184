@@ -33,13 +33,10 @@
 
 ---
 
-### 🔗 Connect with Me
+### 📈 Contribution Activity Graph
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidath-theekshana-800b26347)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vidaththeekshana@gmail.com)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IT23398184&theme=tokyo-night)
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
-![Profile views](https://komarev.com/ghpvc/?username=IT23398184&color=blue)
+### 📅 Contributions in the Last Year
