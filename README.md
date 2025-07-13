@@ -3,7 +3,7 @@
 🎓 Second-year Computer Science Undergraduate at SLIIT  
 💻 Passionate about web development, AI, and open-source  
 🌱 Currently learning: React, Node.js, and Data Structures  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vidath-theekshana-800b26347) | [Email](mailto:vidaththeekshana@gmail.com)
+
 
 ---
 
