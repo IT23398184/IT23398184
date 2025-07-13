@@ -29,7 +29,7 @@
 
 ### 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=IT23398184&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IT23398184&theme=tokyo-night)
 
 ---
 
