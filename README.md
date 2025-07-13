@@ -27,18 +27,7 @@
 
 ---
 
-## 💡 Customize It
 
-- `🟩` = a day with contributions  
-- `⬜` = a day with no contributions  
-- Each row can represent a week or 2 weeks (just for fun)
-
----
-
-## 📌 Example Usage
-
-```md
-### 📅 Contributions in the Last Year
 
 ---
 
