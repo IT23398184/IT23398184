@@ -27,9 +27,18 @@
 
 ---
 
-### 📈 Contribution Graph
+## 💡 Customize It
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=IT23398184&theme=tokyo-night)
+- `🟩` = a day with contributions  
+- `⬜` = a day with no contributions  
+- Each row can represent a week or 2 weeks (just for fun)
+
+---
+
+## 📌 Example Usage
+
+```md
+### 📅 Contributions in the Last Year
 
 ---
 
