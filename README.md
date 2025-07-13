@@ -15,7 +15,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 
 ---
@@ -27,14 +27,19 @@
 
 ---
 
-### 🟩 GitHub Contribution Streak
+### 📈 Contribution Graph
 
-![GitHub Streak](https://streak-stats.demolab.com?user=IT23398184&theme=tokyonight&border_radius=5)
-
----
-
-
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=IT23398184&theme=tokyo-night)
 
 ---
 
-### 📅 Contributions in the Last Year
+### 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidath-theekshana-800b26347)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vidaththeekshana@gmail.com)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+![Profile views](https://komarev.com/ghpvc/?username=IT23398184&color=blue)
