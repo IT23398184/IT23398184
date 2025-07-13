@@ -16,7 +16,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css)
 
 ---
