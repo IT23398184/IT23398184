@@ -27,9 +27,9 @@
 
 ---
 
-### 📈 Contribution Graph
+### 🟩 GitHub Contribution Streak
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IT23398184&theme=tokyo-night)
+![GitHub Streak](https://streak-stats.demolab.com?user=IT23398184&theme=tokyonight&border_radius=5)
 
 ---
 
