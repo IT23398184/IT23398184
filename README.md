@@ -15,7 +15,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 
 ---
@@ -33,9 +33,7 @@
 
 ---
 
-### 📈 Contribution Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IT23398184&theme=tokyo-night)
 
 ---
 
