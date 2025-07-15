@@ -15,7 +15,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,mongodb,java,c,cpp,cs,mysql,html,css,c#,c++,figma,linux,postman,git,github&perline=7&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,mongodb,java,c,cpp,cs,mysql,html,css,figma,linux,postman,git,github&perline=8&theme=dark" alt="Tech Stack Icons" />
 </p>
 
 ---
@@ -28,7 +28,7 @@
 
   <br><br>
 
-  <img src="https://streak-stats.demolab.com?user=VidathTheekshana&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VidathTheekshana&theme=radical&hide_border=true" alt="GitHub Streak" />
 
   <br><br>
 
@@ -72,7 +72,6 @@
 
 ---
 
-
 ## ✨ Fun Fact
 
 <p align="center">
@@ -86,4 +85,3 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/VidathTheekshana/count.svg" alt="Visitor Count" />
 </p>
-
