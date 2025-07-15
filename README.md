@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Vidath+Theekshana;CS+Undergraduate+@+SLIIT;Passionate+Web+%26+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Vidath+Theekshana;CS+Undergraduate+@+SLIIT;Passionate+Web+Developer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Open+Source+Contributor" alt="Typing Subtext" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Contributor" alt="Typing Subtext" />
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@
   <a href="https://www.instagram.com/vidath._.t" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.facebook.com/your-vidath.2003" target="_blank">
+  <a href="https://www.facebook.com/vidath.2003" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
