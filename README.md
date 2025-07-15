@@ -45,7 +45,7 @@
     <img src="https://img.icons8.com/ios-filled/30/D14836/gmail.png" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://github.com/IT23398184">
+  <a href="https://github.com/VidathTheekshana">
     <img src="https://img.icons8.com/ios-filled/30/181717/github.png" alt="GitHub" />
   </a>
   &nbsp;
