@@ -3,7 +3,7 @@
 <p align="center">
 🎓 2nd-year CS Undergraduate at <strong>SLIIT</strong> <br>
 💻 Passionate about <strong>Web Development, AI, and Open Source</strong> <br>
-🌱 Currently diving into <strong>React, Node.js, and Data Structures</strong> <br>
+🌱 Currently diving into <strong>React, Node.js, and Data Structures</strong>
 </p>
 
 ---
@@ -11,50 +11,44 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,java,c,mysql,html,css" alt="Tech Stack" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IT23398184&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT23398184&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IT23398184&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IT23398184&theme=tokyonight" alt="Summary" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT23398184&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
 
-## 🔗 Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/vidath-theekshana">
-    <img src="https://img.icons8.com/ios-filled/30/0077B5/linkedin.png" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/vidath-theekshana" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:vidaththeekshana@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/30/D14836/gmail.png" alt="Gmail" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://github.com/VidathTheekshana">
-    <img src="https://img.icons8.com/ios-filled/30/181717/github.png" alt="GitHub" />
+  <a href="https://github.com/IT23398184" target="_blank">
+    <img src="https://img.icons8.com/material-rounded/48/000000/github.png" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/vidath._.t">
-    <img src="https://img.icons8.com/ios-filled/30/E4405F/instagram-new.png" alt="Instagram" />
+  <a href="https://www.instagram.com/vidath._.t" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" />
   </a>
   &nbsp;
-  <a href="https://www.facebook.com/your-vidath.2003">
-    <img src="https://img.icons8.com/ios-filled/30/1877F2/facebook-new.png" alt="Facebook" />
+  <a href="https://www.facebook.com/your-vidath.2003" target="_blank">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" />
   </a>
 </p>
 
@@ -65,5 +59,5 @@
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IT23398184&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=IT23398184&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
