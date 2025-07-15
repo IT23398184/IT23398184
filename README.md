@@ -24,7 +24,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=VidathTheekshana&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-rstaa.vercel.app/api?username=VidathTheekshana&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
 
   <br><br>
 
@@ -32,7 +32,7 @@
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidathTheekshana&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-rstaa.vercel.app/api/top-langs/?username=VidathTheekshana&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 </div>
 
