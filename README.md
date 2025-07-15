@@ -1,9 +1,11 @@
-<h1 align="center">👋 Hi, I'm Vidath Theekshana</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Vidath+Theekshana;CS+Undergraduate+@+SLIIT;Passionate+Web+%26+AI+Developer" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-🎓 2nd-year CS Undergraduate at <strong>SLIIT</strong> <br>
-💻 Passionate about <strong>Web Development, AI, and Open Source</strong> <br>
-🌱 Currently diving into <strong>React, Node.js, and Data Structures</strong>
+  🎓 2nd-year CS Undergraduate at <strong>SLIIT</strong><br>
+  💻 Passionate about <strong>Web Development, AI, and Open Source</strong><br>
+  🌱 Currently learning <strong>React, Node.js, and Data Structures</strong>
 </p>
 
 ---
@@ -19,11 +21,11 @@
 ## ⚡ GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IT23398184&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IT23398184&theme=tokyonight&hide_border=true" alt="Streak" />
   <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IT23398184&theme=tokyonight" alt="Summary" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT23398184&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT23398184&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -54,10 +56,12 @@
 
 ---
 
-## 💬 Quote I Live By
+## ✨ Quote I Live By
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IT23398184&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=IT23398184&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </p>
