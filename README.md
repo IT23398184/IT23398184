@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/vidath-theekshana" title="LinkedIn">
-    <img src="https://img.icons8.com/color/linkedin.png" width="40" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:vidaththeekshana@gmail.com" title="Gmail">
