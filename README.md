@@ -71,6 +71,4 @@
 
 ## 📈 Visitor Counter
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/VidathTheekshana/count.svg" alt="Visitor Count" />
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=IT23398184&color=blue)
