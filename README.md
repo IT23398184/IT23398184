@@ -48,21 +48,26 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/vidath-theekshana" target="_blank" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:vidaththeekshana@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Gmail"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/VidathTheekshana" target="_blank" title="GitHub">
-    <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/vidath._.t" target="_blank" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" height="40" alt="Instagram"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.facebook.com/vidath.2003" target="_blank" title="Facebook">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/facebook-new.png" width="40" height="40" alt="Facebook"/>
   </a>
 </p>
+
 
 
 ---
