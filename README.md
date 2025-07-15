@@ -72,13 +72,6 @@
 
 ---
 
-## 🎧 Currently Coding To
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=Kingsmanrox&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
-</p>
-
----
 
 ## ✨ Fun Fact
 
@@ -88,12 +81,9 @@
 
 ---
 
-## 📈 Visitor Counter + Contribution Snake
+## 📈 Visitor Counter
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=VidathTheekshana.VidathTheekshana&style=flat-square&color=0088cc" alt="Visitor Badge" />
+  <img src="https://profile-counter.glitch.me/VidathTheekshana/count.svg" alt="Visitor Count" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VidathTheekshana/VidathTheekshana/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</p>
