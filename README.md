@@ -24,11 +24,15 @@
 
 <div align="center">
 
-  ![Vidath's GitHub stats](https://github-readme-stats.vercel.app/api?username=VidathTheekshana&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=VidathTheekshana&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=VidathTheekshana&theme=radical&hide_border=true)
+  <br><br>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VidathTheekshana&layout=compact&theme=radical&hide_border=true)
+  <img src="https://streak-stats.demolab.com?user=VidathTheekshana&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidathTheekshana&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -38,9 +42,9 @@
 
 <div align="center">
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VidathTheekshana&repo=Formlang-with-LEX-YACC&theme=radical)]((https://github.com/VidathTheekshana/Formlang-with-LEX-YACC.git))
+  [![Formlang with LEX YACC](https://github-readme-stats.vercel.app/api/pin/?username=VidathTheekshana&repo=Formlang-with-LEX-YACC&theme=radical)](https://github.com/VidathTheekshana/Formlang-with-LEX-YACC)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VidathTheekshana&repo=Distributed-Messaging-System&theme=radical)](https://github.com/VidathTheekshana/Distributed-Messaging-System.git))
+  [![Distributed Messaging System](https://github-readme-stats.vercel.app/api/pin/?username=VidathTheekshana&repo=Distributed-Messaging-System&theme=radical)](https://github.com/VidathTheekshana/Distributed-Messaging-System)
 
 </div>
 
@@ -74,8 +78,6 @@
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=Kingsmanrox&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
 </p>
 
-
-
 ---
 
 ## ✨ Fun Fact
@@ -93,5 +95,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/VidathTheekshana/VidathTheekshana/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/VidathTheekshana/VidathTheekshana/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
