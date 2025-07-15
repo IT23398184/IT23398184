@@ -73,4 +73,7 @@
 
 ## 📈 Visitor Counter
 
-![Profile views](https://komarev.com/ghpvc/?username=IT23398184&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IT23398184&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
