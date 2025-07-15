@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Vidath+Theekshana;C+S+Undergraduate+@+SLIIT;Passionate+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Vidath+Theekshana;CS+Undergraduate+@+SLIIT;Passionate+Web+Developer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,mongodb,java,c,cpp,cs,mysql,html,css,tailwind,bootstrap,figma,linux,postman,git,github,vscode&perline=7&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,mongodb,java,c,cpp,cs,mysql,html,css,c#,c++,figma,linux,postman,git,github&perline=7&theme=dark" alt="Tech Stack Icons" />
 </p>
 
 ---
