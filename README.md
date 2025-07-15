@@ -22,10 +22,12 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VidathTheekshana&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VidathTheekshana&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VidathTheekshana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="Vidath's GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidathTheekshana&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages" />
+</p>
 
----
 
 ## 🌟 Featured Projects
 
